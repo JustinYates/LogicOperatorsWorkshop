@@ -14,8 +14,9 @@ public class Main {
     System.out.println("y = 1");
 
     if (a  == x && y + y == a){
-        System.out.println();
-    }
+        System.out.println("a == x && y + y == a");
+    }   System.out.println();
+        
 
 
 
